@@ -115,23 +115,14 @@ You can run the particular Testcase file/suite by using following command::
     robot suites/weather.robot
 
 
-TODO
-----
-There are much more to improve, here is the list of things to come
-
-- Circle.ci build pipeline
-- SauceLabs Execution Support
-- More coverage from library methods
-
-
 .. _Robot Framework: http://robotframework.org
 .. _Robot Framework User Guide: http://robotframework.org/robotframework/#user-guide
 .. _pip: http://pip-installer.org
 .. _download:  https://github.com/bkarthickbtech/dyson_qa_assessment/archive/master.zip
 .. _source code:  https://github.com/bkarthickbtech/dyson_qa_assessment.git
 .. _demoapp: https://github.com/bkarthickbtech/dyson_qa_assessment/ConnectivityRemoteTest.apk
-.. _report.html: https://github.com/bkarthickbtech/dyson_qa_assessment/report.html
-.. _log.html: https://github.com/bkarthickbtech/dyson_qa_assessment/log.html
+.. _report.html: https://raw.githack.com/bkarthickbtech/dyson_qa_assessment/main/report.html
+.. _log.html: https://raw.githack.com/bkarthickbtech/dyson_qa_assessment/main/log.html
 .. _Homebrew: https://brew.sh/
 .. _Node.js: https://nodejs.org/en/
 .. _Java Development Kit: https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
