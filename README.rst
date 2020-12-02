@@ -19,11 +19,11 @@ Overview
 --------
 The feature is to view the temperature and weather for today using 'ConnectivityRemoteTest.apk’ android app. 
   
-  - Open the Application
-  - Check the Internet connection
-  - Fetch the Weather data if the internet is connected successfully
-  - Weather and Temperature for today can be viewed.
-  - The results are generated in log files and screenshot is captured.
+- Open the Application
+- Check the Internet connection
+- Fetch the Weather data if the internet is connected successfully
+- Weather and Temperature for today can be viewed.
+- The results are generated in log files and screenshot is captured.
 
 Generated results
 -----------------
